@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "remotemysql.com";
+$username = "gOCoJvtV9v";
+$password = "ZQrKOBvWR0";
 $dbname = 'xkcd_comic_db';
 
 $conn = new mysqli($servername, $username, $password, $dbname);
